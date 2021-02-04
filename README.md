@@ -1,2 +1,2 @@
-# bebgi.io
+# bengi.io
 Bengi is an eternal decentralized computer
