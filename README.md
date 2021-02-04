@@ -7,4 +7,4 @@ This is really silly.
 
 Does humanity really need this?
 
-Start reserving your directory with your unique name... you will just need some Bens.
+Start reserving your directory with your unique name... you will just need some bens (bencoin).
